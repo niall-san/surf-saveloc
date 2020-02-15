@@ -1,5 +1,5 @@
 # surf-saveloc
-Sourcemod plugin to help with surf/bhop practice. Allows for saving location with velocity and replaying. Multiple locations can be saved, and all locations can be accessed by everyone, much like KSF's system.
+Sourcemod plugin to help with surf/bhop practice. Allows for saving location with velocity and replaying. Multiple locations can be saved, and all locations can be accessed by everyone, much like KSF's system.  
 Based on horsefeathers' [tm-saveloc](https://ksfclan.com/forum/showthread.php?4174-saveloc-plugin-(SourceMod)).
 
 ## Commands
